@@ -9,3 +9,4 @@
 - [Day 05 - Next Permutation](Arrays/Day5/) - 09/04/2025
 - [Day 06 - Majority Element II](Arrays/Day6/) - 10/04/2025
 - [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Arrays/Day7/) - 11/04/2025
+- [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Arrays/Day8/) - 12/04/2025
