@@ -10,3 +10,6 @@
 - [Day 06 - Majority Element II](Arrays/Day6/) - 10/04/2025
 - [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Arrays/Day7/) - 11/04/2025
 - [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Arrays/Day8/) - 12/04/2025
+- [Day 09 - Minimize the Heights II](Arrays/Day9/) - 13/04/2025
+- [Day 10 - Kadane's Algorithm](Arrays/Day10/) - 14/04/2025
+- [Day 11 - Maximum Product Subarray](Arrays/Day11/) - 15/04/2025
