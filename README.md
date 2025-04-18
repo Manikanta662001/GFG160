@@ -13,3 +13,9 @@
 - [Day 09 - Minimize the Heights II](Arrays/Day9/) - 13/04/2025
 - [Day 10 - Kadane's Algorithm](Arrays/Day10/) - 14/04/2025
 - [Day 11 - Maximum Product Subarray](Arrays/Day11/) - 15/04/2025
+- [Day 12 - Max Circular Subarray Sum](Arrays/Day12/) - 16/04/2025
+- [Day 13 - Smallest Positive Missing](Arrays/Day13/) - 17/04/2025
+
+### Strings
+
+- [Day 14 - Implement Atoi](Strings/Day14/) - 18/04/2025
