@@ -19,3 +19,7 @@
 ### Strings
 
 - [Day 14 - Implement Atoi](Strings/Day14/) - 18/04/2025
+- [Day 15 - Add Binary Strings](Strings/Day15/) - 19/04/2025
+- [Day 16 - Anagram](Strings/Day16/) - 20/04/2025
+- [Day 17 - Non Repeating Character](Strings/Day17/) - 21/04/2025
+- [Day 18 - Search Pattern (KMP-Algorithm)](Strings/Day18/) - 22/04/2025
