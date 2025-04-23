@@ -23,3 +23,4 @@
 - [Day 16 - Anagram](Strings/Day16/) - 20/04/2025
 - [Day 17 - Non Repeating Character](Strings/Day17/) - 21/04/2025
 - [Day 18 - Search Pattern (KMP-Algorithm)](Strings/Day18/) - 22/04/2025
+- [Day 19 - Min Chars to Add for Palindrome](Strings/Day19/) - 23/04/2025
