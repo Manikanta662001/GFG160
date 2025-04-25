@@ -25,3 +25,4 @@
 - [Day 18 - Search Pattern (KMP-Algorithm)](Strings/Day18/) - 22/04/2025
 - [Day 19 - Min Chars to Add for Palindrome](Strings/Day19/) - 23/04/2025
 - [Day 20 - Strings Rotations of Each Other](Strings/Day20/) - 24/04/2025
+- [Day 21 - Sort 0s, 1s and 2s](Strings/Day21/) - 25/04/2025
