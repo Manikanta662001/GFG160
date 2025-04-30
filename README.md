@@ -28,9 +28,9 @@
 
 ### Sorting
 
-- [Day 21 - Sort 0s, 1s and 2s](Strings/Day21/) - 25/04/2025
-- [Day 22 - Find H-Index](Strings/Day22/) - 26/04/2025
-- [Day 23 - Count Inversions](Strings/Day23/) - 27/04/2025
-- [Day 24 - Overlapping Intervals](Strings/Day24/) - 28/04/2025
-- [Day 25 - Insert Interval](Strings/Day25/) - 29/04/2025
-- [Day 26 - Non-overlapping Intervals](Strings/Day26/) - 30/04/2025
+- [Day 21 - Sort 0s, 1s and 2s](Sorting/Day21/) - 25/04/2025
+- [Day 22 - Find H-Index](Sorting/Day22/) - 26/04/2025
+- [Day 23 - Count Inversions](Sorting/Day23/) - 27/04/2025
+- [Day 24 - Overlapping Intervals](Sorting/Day24/) - 28/04/2025
+- [Day 25 - Insert Interval](Sorting/Day25/) - 29/04/2025
+- [Day 26 - Non-overlapping Intervals](Sorting/Day26/) - 30/04/2025
