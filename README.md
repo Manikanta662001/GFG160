@@ -35,3 +35,7 @@
 - [Day 25 - Insert Interval](Sorting/Day25/) - 29/04/2025
 - [Day 26 - Non-overlapping Intervals](Sorting/Day26/) - 30/04/2025
 - [Day 27 - Merge Without Extra Space](Sorting/Day27/) - 01/05/2025
+
+### Searching
+
+- [Day 28 - Number of occurrence](Searching/Day28/) - 02/05/2025
