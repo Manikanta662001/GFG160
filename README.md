@@ -40,3 +40,6 @@
 
 - [Day 28 - Number of occurrence](Searching/Day28/) - 02/05/2025
 - [Day 29 - Sorted and Rotated Minimum](Searching/Day29/) - 03/05/2025
+- [Day 30 - Search in Rotated Sorted Array](Searching/Day30/) - 04/05/2025
+- [Day 31 - Peak element](Searching/Day31/) - 05/05/2025
+- [Day 32 - K-th element of two Arrays](Searching/Day32/) - 06/05/2025
