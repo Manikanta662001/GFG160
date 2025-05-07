@@ -43,3 +43,4 @@
 - [Day 30 - Search in Rotated Sorted Array](Searching/Day30/) - 04/05/2025
 - [Day 31 - Peak element](Searching/Day31/) - 05/05/2025
 - [Day 32 - K-th element of two Arrays](Searching/Day32/) - 06/05/2025
+- [Day 33 - Aggressive Cows](Searching/Day33/) - 07/05/2025
