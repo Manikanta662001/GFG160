@@ -44,3 +44,12 @@
 - [Day 31 - Peak element](Searching/Day31/) - 05/05/2025
 - [Day 32 - K-th element of two Arrays](Searching/Day32/) - 06/05/2025
 - [Day 33 - Aggressive Cows](Searching/Day33/) - 07/05/2025
+- [Day 34 - Allocate Minimum Pages](Searching/Day34/) - 08/05/2025
+- [Day 35 - Kth Missing Positive Number in a Sorted Array](Searching/Day35/) - 09/05/2025
+
+### Matrix
+
+- [Day 36 - Spirally traversing a matrix](Matrix/Day36/) - 10/05/2025
+- [Day 37 - Rotate by 90 degree](Matrix/Day37/) - 11/05/2025
+- [Day 38 - Search in a Row-Column sorted matrix](Matrix/Day38/) - 12/05/2025
+- [Day 39 - Search in a row-wise sorted matrix](Matrix/Day39/) - 13/05/2025
