@@ -53,3 +53,4 @@
 - [Day 37 - Rotate by 90 degree](Matrix/Day37/) - 11/05/2025
 - [Day 38 - Search in a Row-Column sorted matrix](Matrix/Day38/) - 12/05/2025
 - [Day 39 - Search in a row-wise sorted matrix](Matrix/Day39/) - 13/05/2025
+- [Day 40 - Search in a sorted Matrix](Matrix/Day40/) - 14/05/2025
