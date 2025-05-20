@@ -59,3 +59,7 @@
 ### Hashing
 
 - [Day 42 - Two Sum - Pair with Given Sum](Hashing/Day42/) - 16/05/2025
+- [Day 43 - Two Sum - Count pairs with given sum](Hashing/Day43/) - 17/05/2025
+- [Day 44 - Two Sum - Find All Triplets with Zero Sum](Hashing/Day44/) - 18/05/2025
+- [Day 45 - Two Sum - Two Sum - Pair with Given Sum](Hashing/Day45/) - 19/05/2025
+- [Day 46 - Two Sum - Union of Arrays with Duplicates](Hashing/Day46/) - 20/05/2025
