@@ -65,3 +65,12 @@
 - [Day 46 - Union of Arrays with Duplicates](Hashing/Day46/) - 20/05/2025
 - [Day 47 - Longest Consecutive Subsequence](Hashing/Day47/) - 21/05/2025
 - [Day 48 - Print Anagrams Together](Hashing/Day48/) - 22/05/2025
+- [Day 49 - Subarrays with sum K](Hashing/Day49/) - 23/05/2025
+- [Day 50 - Count Subarrays with given XOR](Hashing/Day50/) - 24/05/2025
+
+### Two Pointer Technique
+
+- [Day 51 - Count all triplets with given sum in sorted array](Two-Pointer-Technique/Day51/) - 25/05/2025
+- [Day 52 - Count Pairs whose sum is less than target](Two-Pointer-Technique/Day52/) - 26/05/2025
+- [Day 53 - Sum Pair closest to target](Two-Pointer-Technique/Day53/) - 27/05/2025
+- [Day 54 - Pair with given sum in a sorted array](Two-Pointer-Technique/Day54/) - 28/05/2025
