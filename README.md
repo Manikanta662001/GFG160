@@ -74,3 +74,5 @@
 - [Day 52 - Count Pairs whose sum is less than target](Two-Pointer-Technique/Day52/) - 26/05/2025
 - [Day 53 - Sum Pair closest to target](Two-Pointer-Technique/Day53/) - 27/05/2025
 - [Day 54 - Pair with given sum in a sorted array](Two-Pointer-Technique/Day54/) - 28/05/2025
+- [Day 55 - Count the number of possible triangles](Two-Pointer-Technique/Day55/) - 29/05/2025
+- [Day 56 - Indexes of Subarray Sum](Two-Pointer-Technique/Day56/) - 30/05/2025
