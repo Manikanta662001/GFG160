@@ -76,3 +76,20 @@
 - [Day 54 - Pair with given sum in a sorted array](Two-Pointer-Technique/Day54/) - 28/05/2025
 - [Day 55 - Count the number of possible triangles](Two-Pointer-Technique/Day55/) - 29/05/2025
 - [Day 56 - Indexes of Subarray Sum](Two-Pointer-Technique/Day56/) - 30/05/2025
+- [Day 57 - Count distinct elements in every window](Two-Pointer-Technique/Day57/) - 31/05/2025
+- [Day 58 - Longest substring with distinct characters](Two-Pointer-Technique/Day58/) - 01/06/2025
+- [Day 59 - Trapping Rain Water](Two-Pointer-Technique/Day59/) - 02/06/2025
+- [Day 60 - Container With Most Water](Two-Pointer-Technique/Day60/) - 03/06/2025
+
+### Prefix Sum
+
+- [Day 61 - Equilibrium Point](Prefix-Sum/Day61/) - 04/06/2025
+- [Day 62 - Longest Subarray with Sum K](Prefix-Sum/Day62/) - 05/06/2025
+- [Day 63 - Largest subarray of 0's and 1's](Prefix-Sum/Day63/) - 06/06/2025
+- [Day 64 - Product array puzzle](Prefix-Sum/Day64/) - 07/06/2025
+
+### Linked List
+
+- [Day 65 - Reverse a linked list](Linked-List/Day65/) - 08/06/2025
+- [Day 66 - Rotate a Linked List](Linked-List/Day66/) - 09/06/2025
+- [Day 67 - Merge two sorted linked lists](Linked-List/Day67/) - 10/06/2025
