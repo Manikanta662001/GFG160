@@ -94,3 +94,13 @@
 - [Day 66 - Rotate a Linked List](Linked-List/Day66/) - 09/06/2025
 - [Day 67 - Merge two sorted linked lists](Linked-List/Day67/) - 10/06/2025
 - [Day 68 - Linked List Group Reverse](Linked-List/Day68/) - 11/06/2025
+- [Day 69 - Add Number Linked Lists](Linked-List/Day69/) - 12/06/2025
+- [Day 70 - Clone List with Next and Random](Linked-List/Day70/) - 13/06/2025
+- [Day 71 - Detect Loop in linked list](Linked-List/Day71/) - 14/06/2025
+- [Day 72 - Find the first node of loop in linked list](Linked-List/Day72/) - 15/06/2025
+- [Day 73 - Remove loop in Linked List](Linked-List/Day73/) - 16/06/2025
+- [Day 74 - LRU Cache](Linked-List/Day74/) - 17/06/2025
+
+### Recursion & BackTracking
+
+- [Day 75 - Permutations of a String](Recursion&BackTracking/Day75/) - 18/06/2025
