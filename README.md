@@ -104,3 +104,4 @@
 ### Recursion & BackTracking
 
 - [Day 75 - Permutations of a String](Recursion&BackTracking/Day75/) - 18/06/2025
+- [Day 76 - Implement Pow](Recursion&BackTracking/Day76/) - 19/06/2025
