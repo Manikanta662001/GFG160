@@ -11,6 +11,7 @@ class Solution {
     let base = b;
     let exponent = Math.abs(e);
     let result = 1;
+    console.log("TESTING:::");
     while (exponent > 0) {
       if (exponent % 2 === 1) {
         result *= base;
